@@ -13,3 +13,8 @@ make
 ```bash
 ./rogue rooms.txt
 ```
+
+## Screenshots
+![welcome_screen](images/welcome_screen.png)
+
+![gameplay](images/gameplay.png)

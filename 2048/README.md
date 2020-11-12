@@ -17,3 +17,6 @@ Alternatively, grid dimension can be modified
 ```bash
 ./play 8
 ```
+
+## Screenshot
+![2048](images/2048.png)
